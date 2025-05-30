@@ -10,7 +10,7 @@
 !.yarn/releases
 !.yarn/versions
 
-serviceAccountKey.json
+firebase/serviceAccountKey.json
 
 # testing
 /coverage
@@ -41,3 +41,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
